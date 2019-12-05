@@ -1,0 +1,15 @@
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\bin\Debug\SweepLoadMine.exe.config
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\bin\Debug\SweepLoadMine.exe
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\bin\Debug\SweepLoadMine.pdb
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine.csprojAssemblyReference.cache
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\MainWindow.g.cs
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\App.g.cs
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine_MarkupCompile.cache
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine_MarkupCompile.lref
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\MainWindow.baml
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine.g.resources
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine.Properties.Resources.resources
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine.csproj.GenerateResource.cache
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine.csproj.CoreCompileInputs.cache
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine.exe
+E:\C#高级编程\07.30（扫雷）\SweepLoadMine\SweepLoadMine\obj\Debug\SweepLoadMine.pdb
